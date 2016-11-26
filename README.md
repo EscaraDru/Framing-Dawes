@@ -1,2 +1,2 @@
 # Framing-Dawes
-Point &amp; Click 2D Animated Game
+Point & Click 2D Animated Game
